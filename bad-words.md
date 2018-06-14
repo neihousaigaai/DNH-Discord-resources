@@ -30,18 +30,25 @@ bad_words = [
 # - www.youswear.com/index.asp?language=Vietnamese
 "đĩ",
 "địt",
+"địt mẹ",
+"địt bố",
+"địt cha",
+"địt bà",
+"địt cụ",
+"chịch",
 "cứt",
 "đái",
 "địt",
-"đụ",
-"đù",
+"đụ má",
 "đéo",
 # "bú",
 "cặc",
 "buồi",
 "lồn",
-# "mẹ", "bố", "cha", "bà", "cụ"  # "dit" + ...
 # "lợn" (pig), "chó" (dog)
+"vãi đái", 
+"vãi cứt", 
+"vãi lồn"
 ]
 ```
 
