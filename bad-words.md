@@ -26,8 +26,8 @@ bad_words = [
 
 # Vietnamese
 # source: 
-# - https://www.quora.com/What-are-some-sayings-in-your-native-language-that-sound-ridiculous-in-English/answer/Huy-Ngo-44
-# - https://www.quora.com/What-are-some-swear-words-in-Vietnamese
+# - http://qr.ae/TUp27Z
+# - http://qr.ae/TUp27V
 # - www.youswear.com/index.asp?language=Vietnamese
 "đĩ",
 "địt",
