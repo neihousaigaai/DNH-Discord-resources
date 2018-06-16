@@ -98,4 +98,11 @@ def isBadWord(word):
 def isContainingBadWord(s):
     _s = s.lower()
     return any(_s.find(bad_word) != -1 for bad_word in bad_words)
+
+def replaceBadWord(s):
+    import re
+    for bad_word in bad_words:
+        s = re.sub(bad_word, r'*'*len(bad_word), s, flags=re.IGNORECASE)
+
+    return s
 ```
