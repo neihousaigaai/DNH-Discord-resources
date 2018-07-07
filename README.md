@@ -9,6 +9,23 @@ DNH's Discord resources (for coding)
 
 - [Video tổng hợp lại kiến thức C++](https://www.youtube.com/watch?v=Rub-JsjMhWY)
 
+- C++ Multithreading, by @IndieResearcher:
+  1. `std::thread`
+  - https://solarianprogrammer.com/2011/12/16/cpp-11-thread-tutorial/
+  - http://www.bogotobogo.com/cplusplus/C11/1_C11_creating_thread.php
+  - book: https://www.amazon.com/C-Concurrency-Action-Practical-Multithreading/dp/1933988770/ref=sr_1_2?ie=UTF8&qid=1525320472&sr=8-2&keywords=C%2B%2B+concurrency
+
+  2. Windows multithread:
+  - https://www.amazon.com/Multithreading-Applications-Win32-Complete-Threads/dp/0201442345/ref=sr_1_1?ie=UTF8&qid=1525320496&sr=8-1&keywords=multithreading+in+win32
+
+  3. Intel TBB:
+  - tutorial: http://pages.cs.wisc.edu/~gibson/tbbTutorial.html
+
+  4. OpenMP:
+  - https://helloacm.com/simple-tutorial-with-openmp-how-to-use-parallel-block-in-cc-using-openmp/
+  - tutorial: https://computing.llnl.gov/tutorials/openMP/
+  - book: https://www.amazon.com/Using-OpenMP-Programming-Engineering-Computation/dp/0262533022/ref=sr_1_2?ie=UTF8&qid=1525320661&sr=8-2&keywords=openmp
+
 #### `#python`
 
 - [Tuyển tập sách lập trình Python của Henry - thành viên DNH](http://henrysnotes.blogspot.com/2017/12/nhung-cuon-sach-lap-trinh-henry-tung-oc.html)
@@ -70,7 +87,7 @@ DNH's Discord resources (for coding)
     - [Timeline](http://oracle.com.edgesuite.net/timeline/java/)
 
   - GitHub
-    - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+    - [:books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 
   - YouTube
     - Derek Banas
@@ -117,11 +134,103 @@ DNH's Discord resources (for coding)
 
 #### `#algorithm`
 
+- by @drgnz:
+  - Github:
+    - [Awesome competitive programming](https://github.com/lnishan/awesome-competitive-programming)
+    - [Awesome algorithm](https://github.com/tayllan/awesome-algorithms)
+
+  - Book:
+    - [Discrete Mathematics and Its Application](https://www.amazon.com/Discrete-Mathematics-Its-Applications-Seventh/dp/0073383090/)
+    - [Linear Algebra and Its Application](https://www.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X)
+    - [Programming Pearls (nên đọc)](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
+    - [Competitive Programming book (3 quyển)](https://cpbook.net/)
+    - [The art of programming (nâng cao)](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
+    - [Introduction to Algorithm (nâng cao, gọi tắt là CLRS Book)](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
+
+  - Các trang web luyện giải thuật
+    - [codeforces](http://codeforces.com/)
+    - [topcoder](https://www.topcoder.com/)
+    - [codechef](https://www.codechef.com/)
+    - [spoj](http://www.spoj.com/)
+    - [hackerrank](https://www.hackerrank.com/)
+    - [projecteuler](https://projecteuler.net/)
+    - [codefights](https://codefights.com/)
+    - [codewars](https://www.codewars.com/)
+    - [vn spoj](http://vn.spoj.com/)
+    - [leetcode](https://leetcode.com/)
+
+  - Blog
+    - https://www.geeksforgeeks.org/
+
+- by @Asterick:
+
+  - **Learning order should be 20 -> 21 -> 101**
+
+  - **University of California San Diego's CSE 20: Discrete Mathematics for Computer Science**
+
+    [Link of the complete zip file of the course](https://drive.google.com/open?id=1X6BEKfO4Dy2vx6lI7NUXh0UwQWN9GSBE), includes:
+
+    - An offline version of the website.<br>It comes with: PowerPoint slides of the materials, homework problems/solutions, midterm problems/solutions, and finals problems/solutions
+
+    - 2 pdf books: 
+      - The book Rosen's Discrete Mathematics and Its Applications 7th Edition  that is used with the course
+      - The student solution manual for the book
+
+  - **University of California San Diego's CSE 21: Mathematics for Algorithms and System Analysis**
+  
+    - Layout is the same as CSE20
+    - [Link](https://drive.google.com/open?id=1rsNmVBys4j1tS8wqi2qpvsY87Q5njMTJ)
+
+  - **University of California San Diego's CSE 101: Design and Analysis of Algorithm**
+    - [Website](https://vlsicad.ucsd.edu/courses/cse101-w18/)
+    - [Book that goes with course](https://vlsicad.ucsd.edu/courses/cse101-w18/textbook.pdf)
+    - Link to download all the additional resources (homeworks/midterms/finals solutions, extra documentations, and even an offline version of the website) all categorized and wrapped up in a nice little zip file for your viewing pleasure: [Link](https://drive.google.com/open?id=1qI8ChvW-oF4wpCw9kX-Mhdy9Qk7SIgF3)
+
+- Numerical Analysis (ebook), by @IndieResearcher:
+  - [General](https://www.amazon.com/Numerical-Methods-Scientists-Engineers-Mathematics/dp/0486652416/ref=sr_1_3?ie=UTF8&qid=1525318799&sr=8-3&keywords=numerical+method)
+  - [C Implementation](https://www.amazon.com/Numerical-Recipes-Scientific-Computing-Second/dp/0521431085/ref=sr_1_2?ie=UTF8&qid=1525318848&sr=8-2&keywords=numerical+method+in+C)
+  - [Numerical Finance](https://www.amazon.com/Numerical-Methods-Finance-Mastering-Mathematical/dp/0521177162/ref=sr_1_1?ie=UTF8&qid=1525318909&sr=8-1&keywords=numerical+method+finance+with+C%2B%2B)
+  - [Numerical physic](https://www.amazon.com/Numerical-Methods-Physics-Alejandro-Garcia/dp/1514136686/ref=sr_1_1?ie=UTF8&qid=1525318954&sr=8-1&keywords=numerical+method+for+physic)
+
+- by @Tinh Huynh:
+  - [Video series: Introduction to sorting algorithms](https://www.youtube.com/watch?v=pkkFqlG0Hds&index=0&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U)
+  - [Cracking the Coding Interview via HackerRank](https://www.youtube.com/watch?v=shs0KM3wKv8&list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK)
+
+- 1 rổ các thuật toán đc biểu diễn 1 cách trực quan: [VisuAlgo](https://visualgo.net/en)
+
 #### `#math`
 
-#### `#graphics`
+- "Calculus" by Michael Spivak
 
-#### `#image-film-techs`
+- by @drgnz:
+
+  - 3 trang mình thích là:
+    - [khanacademy](http://khanacademy.org/): Đủ thể loại, mình thích giải toán lớp 1 để lấy badges :penguin: 
+    - [mathplanet](https://www.mathplanet.com/): Chương trình tới lớp 12, coi bổ sung kiến thức
+    - [Mathematics courses (MIT)](https://ocw.mit.edu/courses/mathematics): Chương trình ĐH, có vài course được update mới, hầu hết khá cũ :relaxed: 
+
+  - [PatrickJMT](http://patrickjmt.com/): Trang này có thấy nhiều người đề cập mà chưa coi nên không rõ
+
+  - Channel mình hay ngó:
+    - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+    - Ted-ed (để lấy riddle vui vui)
+    - [mathematicalmonk](https://www.youtube.com/user/mathematicalmonk/featured)
+
+#### `#game-film-tech` (merge `#graphics` và `#image-film-techs`)
+
+- 1 số tài liệu, by @IndieResearcher:
+  1. OpenCV:
+    - https://www.amazon.com/Machine-Learning-OpenCV-Intelligent-processing/dp/1783980281/ref=sr_1_2?ie=UTF8&qid=1525231449&sr=8-2&keywords=OpenCV
+    - https://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549/ref=sr_1_3?ie=UTF8&qid=1525231449&sr=8-3&keywords=OpenCV
+    - https://www.amazon.com/OpenCV-Example-Prateek-Joshi/dp/1785280945/ref=sr_1_4?ie=UTF8&qid=1525231449&sr=8-4&keywords=OpenCV
+    - https://www.amazon.com/OpenCV-Computer-Application-Programming-Cookbook/dp/1786469715/ref=sr_1_6?ie=UTF8&qid=1525231449&sr=8-6&keywords=OpenCV
+
+  2. dlib:
+    - http://dlib.net/
+    - https://www.learnopencv.com/?s=dlib
+
+  3. OpenGL for image processing:
+    - https://www.amazon.com/OpenGL-Shading-Language-Cookbook-Second/dp/1782167021/ref=sr_1_2?ie=UTF8&qid=1525231616&sr=8-2&keywords=OpenGL+cookbook
 
 #### `#audio-processing`
 
@@ -129,7 +238,34 @@ DNH's Discord resources (for coding)
 
 #### `#software-design`
 
+- in C++, by @IndieResearcher
+  - Design pattern/framework design: https://www.amazon.com/API-Design-C-Martin-Reddy/dp/0123850037/ref=sr_1_1?ie=UTF8&qid=1525320708&sr=8-1&keywords=API+design+for+C%2B%2B
+  - C++ large scale software: https://www.amazon.com/Large-Scale-Software-Design-John-Lakos/dp/0201633620/ref=sr_1_1?ie=UTF8&qid=1525320729&sr=8-1&keywords=C%2B%2B+large+scale
+  - Clean code: https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_4?ie=UTF8&qid=1525320744&sr=8-4&keywords=software+engineering
+  - Gang of four book: https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?ie=UTF8&qid=1525320781&sr=8-1&keywords=design+pattern
+  - [Coding style/C++ best practices](https://github.com/lefticus/cppbestpractices)
+
+- Các sách cần đọc cho bạn nào thích tìm hiểu về Software Architecture, by @hungsteve:
+  - [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+  - [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+  - [Patterns of Enterpise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+  - [Enterprise Intergration Patterns](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
+  - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+  - [Implementing Domain Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
+  - [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+
+- [UX/UI cho mobile application](https://www.behance.net/search?field=132&content=projects&sort=appreciations&time=week&featured_on_behance=true&search=news), by Tinh Huynh
+
 #### `#data-science`
+
+- by @IndieResearcher:
+  - Sách Việt: https://machinelearningcoban.com/2018/03/09/book/
+  - Sách tiếng Anh: 
+    - https://www.amazon.com/Think-Bayes-Bayesian-Statistics-Python/dp/1449370780/ref=sr_1_1?ie=UTF8&qid=1525230971&sr=8-1&keywords=think+bayes
+    - https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057/ref=sr_1_2?ie=UTF8&qid=1525230952&sr=8-2&keywords=Python+for+data+science
+    - https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X/ref=sr_1_4?ie=UTF8&qid=1525230952&sr=8-4&keywords=Python+for+data+science
+  - 1 số khóa học trên Udemy:
+    - https://www.udemy.com/courses/search/?q=Python%20machine%20learning&src=ukw
 
 ### major
 
@@ -148,3 +284,12 @@ DNH's Discord resources (for coding)
 #### `#linux-unix`
 
 #### `#windows`
+
+### others
+
+#### book
+
+drgnz:
+Nguồn sách free và legal: 
+https://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=7
+http://openstax.org/
