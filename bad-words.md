@@ -23,6 +23,7 @@ bad_words = [
 "fuck",
 "fucker",
 "motherfucker",
+"pussy",
 "shit",
 "whore",
 
