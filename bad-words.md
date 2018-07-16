@@ -17,6 +17,7 @@ bad_words = [
 "cock",
 "cunt",
 "dick",
+"damn",
 "fuck",
 "fucker",
 "motherfucker",
@@ -31,6 +32,7 @@ bad_words = [
 "buồi",
 "bú buồi",
 "bú cu",
+"buscu",
 "chịch",
 "con bà mày",
 "con bán hoa",
@@ -83,7 +85,9 @@ bad_words = [
 "đụ má mày",
 "đụ má mày con chó",
 "đụ má mày con đĩ",
-"đụ mẹ mày"
+"đụ mẹ mày",
+"vếu",
+"vú"
 ]
 ```
 
