@@ -48,6 +48,7 @@ bad_words = [
 "kệ mẹ tao",
 "kệ mẹ thằng",
 "lồn",
+"lìn",
 "lỗ đít",
 "mẹ đồ ngu",
 "mẹ bố mày",
