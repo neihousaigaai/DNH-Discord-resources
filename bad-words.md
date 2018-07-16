@@ -56,6 +56,8 @@ bad_words = [
 "mẹ đồ ngu",
 "mẹ bố mày",
 "mẹ bố thằng",
+"phịch",
+"nện nhau",
 "thằng chó chết",
 "thằng chó đẻ",
 "vãi cứt",
