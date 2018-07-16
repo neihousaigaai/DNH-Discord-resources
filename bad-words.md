@@ -9,6 +9,7 @@ bad_words = [
 # source:
 # - http://www.hyperhero.com/en/insults.htm
 # - https://reallifeglobal.com/how-to-use-swear-words-in-english/
+"anal",
 "ass",
 "asshole",
 "bitch",
