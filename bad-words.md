@@ -18,6 +18,7 @@ bad_words = [
 "cunt",
 "dick",
 "damn",
+"faggot",
 "fuck",
 "fucker",
 "motherfucker",
