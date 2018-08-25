@@ -215,6 +215,12 @@ DNH's Discord resources (for coding)
     - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
     - Ted-ed (để lấy riddle vui vui)
     - [mathematicalmonk](https://www.youtube.com/user/mathematicalmonk/featured)
+    
+  - Public Discord server for Math: [Mathematics](https://discord.me/math)
+  
+- by @Asterick:
+
+  - Free online math books that are approved by the American Institute of Mathematics: https://aimath.org/textbooks/approved-textbooks/
 
 #### `#game-film-tech` (merge `#graphics` và `#image-film-techs`)
 
