@@ -273,6 +273,67 @@ DNH's Discord resources (for coding)
   - 1 số khóa học trên Udemy:
     - https://www.udemy.com/courses/search/?q=Python%20machine%20learning&src=ukw
 
+#### `security` (since 23/8/2018)
+
+- by @drgnz:
+  - Ấn phẩm Watch Your Hack, giúp bạn bảo vệ bản thân khỏi nguy cơ bị rip nick FB, phòng chống WannaCry và giúp bạn phòng chống những Hacker nguy hiểm nhất thế giới.
+    - [Bản Tiếng Việt](https://medium.com/@kienbigmummy/watch-your-hack-b%E1%BA%A3n-d%E1%BB%8Bch-ti%E1%BA%BFng-vi%E1%BB%87t-541c78d3305b)
+    - [Bản Gốc](https://watchyourhack.com/)
+  - Open Security: http://opensecuritytraining.info/ (Khá cũ và ko update gì mới)
+  - Malware Unicorn: https://sites.google.com/secured.org/malwareunicorn/reverse-engineering
+  - Reverse Engineering for Beginner: https://www.begin.re/
+  - RE Beginner: https://beginners.re/
+  - Crypto101: https://www.crypto101.io/
+  - Cryptopals: https://cryptopals.com/
+  - Tuts4you: https://tuts4you.com/
+  - Crackme: http://crackmes.one/
+  - Woodman.com: http://woodmann.com/
+  - The Legend of Random Tutorial: https://legend.octopuslabs.io/
+  - Hacker Manifesto: http://phrack.org/issues/7/3.html
+  - Phrack Magazine: http://phrack.org/
+  - (Must read) How to become a hacker: http://www.catb.org/esr/faqs/hacker-howto.html
+  - Digital Forensics and Incident Response: http://aboutdfir.com/
+  - Little Man in My Head: https://littlemaninmyhead.wordpress.com/
+  - CTF Times: https://ctftime.org/
+  - The Hacker News: https://thehackernews.com/
+  - m4n0w4r Olly tutorial: https://kienmanowar.wordpress.com/category/ollydbg-tutorials/
+  - NULL BYTE: https://null-byte.wonderhowto.com/
+  - Levis's .NET RE: https://ltops9.wordpress.com/2017/03/08/series-reversingcracking-net-co-ban-bang-tieng-viet/
+
+  - Reddit:
+    - https://www.reddit.com/r/ReverseEngineering/
+    - https://www.reddit.com/r/Malware
+    - https://www.reddit.com/r/computerforensics
+    - http://reddit.com/r/crypto
+
+  - Youtube:
+    - BlackHat: https://www.youtube.com/user/BlackHatOfficialYT
+    - DEFCON: https://www.youtube.com/user/DEFCONConference
+    - LiveOverflow (Thường làm clip về Exploitation và Pentest): https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+
+- by @Asterick:
+  - Tập "hacking":
+    - http://overthewire.org/wargames/
+    - https://www.hackthissite.org/
+    - https://kali.training/
+    - https://www.darknet.org.uk/
+
+  - Website/Forum:
+    - [Reddit Security](https://www.reddit.com/r/netsec/)
+    - News:
+      - https://krebsonsecurity.com/
+      - https://news.ycombinator.com/
+      - https://www.securityweek.com/
+    - [Cybrary (security training)](https://www.cybrary.it/)
+
+  - Sách:
+    - [Security Engineering (free)](https://www.cl.cam.ac.uk/~rja14/book.html)
+    - [Applied Cryptography](https://www.amazon.com/Applied-Cryptography-Protocols-Algorithms-Source/dp/0471117099)
+    - hay [Cryptography Engineering](https://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246)
+    - [Hacking-Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
+    - [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
+    - [Practical Reverse Engineering](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation-ebook/dp/B00IA22R2Y)
+
 ### major
 
 #### `#web`
