@@ -1,4 +1,4 @@
-# DNH-Discord-resources
+# DayNhauHoc's Discord resources
 DNH's Discord resources (for coding)
 
 ## Box list (for coding)
@@ -124,8 +124,6 @@ DNH's Discord resources (for coding)
   - [Learn Go in 12 Minutes](https://www.youtube.com/watch?v=C8LgvuEBraI)
   - [Học Go trong vài phút](https://learnxinyminutes.com/docs/go/)
 
-#### `#kotlin` (deleted on 7/7/2018) :cry:
-
 #### `#misc`
 
 - [Solidity, smart contract programming language](https://medium.com/@robbertvermeulen/learn-solidity-the-ethereum-smart-contract-programming-language-7f106fc26d6)
@@ -221,24 +219,6 @@ DNH's Discord resources (for coding)
 - by @Asterick:
 
   - Free online math books that are approved by the American Institute of Mathematics: https://aimath.org/textbooks/approved-textbooks/
-
-#### `#game-film-tech` (merge `#graphics` và `#image-film-techs`)
-
-- 1 số tài liệu, by @IndieResearcher:
-  1. OpenCV:
-    - https://www.amazon.com/Machine-Learning-OpenCV-Intelligent-processing/dp/1783980281/ref=sr_1_2?ie=UTF8&qid=1525231449&sr=8-2&keywords=OpenCV
-    - https://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549/ref=sr_1_3?ie=UTF8&qid=1525231449&sr=8-3&keywords=OpenCV
-    - https://www.amazon.com/OpenCV-Example-Prateek-Joshi/dp/1785280945/ref=sr_1_4?ie=UTF8&qid=1525231449&sr=8-4&keywords=OpenCV
-    - https://www.amazon.com/OpenCV-Computer-Application-Programming-Cookbook/dp/1786469715/ref=sr_1_6?ie=UTF8&qid=1525231449&sr=8-6&keywords=OpenCV
-
-  2. dlib:
-    - http://dlib.net/
-    - https://www.learnopencv.com/?s=dlib
-
-  3. OpenGL for image processing:
-    - https://www.amazon.com/OpenGL-Shading-Language-Cookbook-Second/dp/1782167021/ref=sr_1_2?ie=UTF8&qid=1525231616&sr=8-2&keywords=OpenGL+cookbook
-
-#### `#audio-processing`
 
 #### `#dba`
 
@@ -340,11 +320,23 @@ DNH's Discord resources (for coding)
 
 #### `#game`
 
+- 1 số tài liệu, by @IndieResearcher:
+  1. OpenCV:
+    - https://www.amazon.com/Machine-Learning-OpenCV-Intelligent-processing/dp/1783980281/ref=sr_1_2?ie=UTF8&qid=1525231449&sr=8-2&keywords=OpenCV
+    - https://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549/ref=sr_1_3?ie=UTF8&qid=1525231449&sr=8-3&keywords=OpenCV
+    - https://www.amazon.com/OpenCV-Example-Prateek-Joshi/dp/1785280945/ref=sr_1_4?ie=UTF8&qid=1525231449&sr=8-4&keywords=OpenCV
+    - https://www.amazon.com/OpenCV-Computer-Application-Programming-Cookbook/dp/1786469715/ref=sr_1_6?ie=UTF8&qid=1525231449&sr=8-6&keywords=OpenCV
+
+  2. dlib:
+    - http://dlib.net/
+    - https://www.learnopencv.com/?s=dlib
+
+  3. OpenGL for image processing:
+    - https://www.amazon.com/OpenGL-Shading-Language-Cookbook-Second/dp/1782167021/ref=sr_1_2?ie=UTF8&qid=1525231616&sr=8-2&keywords=OpenGL+cookbook
+
 #### `#mobile`
 
 #### `#sysadmin`
-
-#### `#embedded` (deleted on 16/10/2018)
 
 by `@drgnz`
 
@@ -419,13 +411,6 @@ Tuỳ thuộc vào mình làm arm hay không, mà bây giờ arm phổ biến qu
 #### `#windows`
 
 ### others
-
-#### book
-
-drgnz:
-Nguồn sách free và legal: 
-https://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=7
-http://openstax.org/
 
 #### book
 
