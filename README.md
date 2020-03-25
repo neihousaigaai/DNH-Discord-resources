@@ -223,17 +223,6 @@
 
 - [UX/UI cho mobile application](https://www.behance.net/search?field=132&content=projects&sort=appreciations&time=week&featured_on_behance=true&search=news), by **Tynk Huynk**/**Tinh Huynh**
 
-#### `#data-science`
-
-- by @IndieResearcher:
-  - Sách Việt: https://machinelearningcoban.com/2018/03/09/book/
-  - Sách tiếng Anh: 
-    - https://www.amazon.com/Think-Bayes-Bayesian-Statistics-Python/dp/1449370780/ref=sr_1_1?ie=UTF8&qid=1525230971&sr=8-1&keywords=think+bayes
-    - https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057/ref=sr_1_2?ie=UTF8&qid=1525230952&sr=8-2&keywords=Python+for+data+science
-    - https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X/ref=sr_1_4?ie=UTF8&qid=1525230952&sr=8-4&keywords=Python+for+data+science
-  - 1 số khóa học trên Udemy:
-    - https://www.udemy.com/courses/search/?q=Python%20machine%20learning&src=ukw
-
 #### `security`
 
 - by @drgnz:
@@ -357,6 +346,17 @@ http://openstax.org/
 
 - [Official docs](http://php.net/manual/en)
 - [PHP the right way](https://www.phptherightway.com/), chứa nhiều link khác hay lắm.
+
+#### `#data-science`
+
+- **Nguyễn Phạm Anh Quân**/**IndieResearcher**/**AnhQuan**:
+  - Sách tiếng Việt: https://machinelearningcoban.com/ebook/
+  - Sách tiếng Anh: 
+    - [Think Bayes - Allen B. Downey](https://www.amazon.com/Think-Bayes-Bayesian-Statistics-Python/dp/1449370780/)
+    - [Python Data Science Handbook: Essential Tools for Working with Data - Jake VanderPlas](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057/)
+    - [Data Science from Scratch: First Principles with Python - Joel Grus](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X/)
+  - 1 số khóa học trên Udemy:
+    - https://www.udemy.com/courses/search/?q=Python%20machine%20learning&src=ukw
 
 #### `#embedded`
 - **drgnz**
