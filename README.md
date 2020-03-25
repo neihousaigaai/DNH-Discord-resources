@@ -181,7 +181,7 @@
 
 - "Calculus" by Michael Spivak
 
-- by @drgnz:
+- **drgnz**:
 
   - 3 trang mình thích là:
     - [khanacademy](http://khanacademy.org/): Đủ thể loại, mình thích giải toán lớp 1 để lấy badges :penguin: 
@@ -317,7 +317,49 @@
 
 #### `#sysadmin`
 
-by `@drgnz`
+### `operating-system`
+
+#### `#linux-unix`
+
+#### `#windows`
+
+### `others`
+
+#### `books`
+
+drgnz:
+Nguồn sách free và legal: 
+https://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=7
+http://openstax.org/
+
+## Archived channels (những channels đã không còn hoạt động)
+
+#### `golang`
+
+- **Tynk Huynk**/**Tinh Huynh**
+    - [Awesome Go](https://github.com/avelino/awesome-go)
+    - [Learn Go](https://github.com/golang/go/wiki/Learn)
+
+- **Aragami1408**
+    - [Go Programming - Derek Banas](https://www.youtube.com/watch?v=CF9S4QZuV30)
+
+- **hungsteve**
+    - Lên trang chủ golang https://golang.org/, làm 1 tour
+    - Đọc [How to Write Go Code](https://golang.org/doc/code.html)
+    - Đọc tiếp [Effective Go](https://golang.org/doc/effective_go.html)
+    - Xem tiếp các packages: `fmt`, `bytes`, `io`, `io/util`, `math`, `net`, `net/http`, `path`, `path/filepath`, `regexp`, `sort`, `strings`, `strconv`, `time`.
+
+- Đốt cháy giai đoạn:
+  - [Learn Go in 12 Minutes](https://www.youtube.com/watch?v=C8LgvuEBraI)
+  - [Học Go trong vài phút](https://learnxinyminutes.com/docs/go/)
+
+#### `#php`
+
+- [Official docs](http://php.net/manual/en)
+- [PHP the right way](https://www.phptherightway.com/), chứa nhiều link khác hay lắm.
+
+#### `#embedded`
+- **drgnz**
 
 - Embedded Linux: https://daynhauhoc.com/t/nhung-kien-thuc-nao-can-co-de-hoc-embedded-system/9780/3
 
@@ -382,45 +424,3 @@ Tuỳ thuộc vào mình làm arm hay không, mà bây giờ arm phổ biến qu
 - Other links:
   - https://www.udemy.com/crash-course-electronics-and-pcb-design
   - https://github.com/s-matyukevich/raspberry-pi-os
-
-### `operating-system`
-
-#### `#linux-unix`
-
-#### `#windows`
-
-### others
-
-#### book
-
-drgnz:
-Nguồn sách free và legal: 
-https://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=7
-http://openstax.org/
-
-## Archived channels (những channels đã không còn hoạt động)
-
-#### `golang`
-
-- **Tynk Huynk**/**Tinh Huynh**
-    - [Awesome Go](https://github.com/avelino/awesome-go)
-    - [Learn Go](https://github.com/golang/go/wiki/Learn)
-
-- **Aragami1408**
-    - [Go Programming - Derek Banas](https://www.youtube.com/watch?v=CF9S4QZuV30)
-
-- **hungsteve**
-    - Lên trang chủ golang https://golang.org/, làm 1 tour
-    - Đọc [How to Write Go Code](https://golang.org/doc/code.html)
-    - Đọc tiếp [Effective Go](https://golang.org/doc/effective_go.html)
-    - Xem tiếp các packages: `fmt`, `bytes`, `io`, `io/util`, `math`, `net`, `net/http`, `path`, `path/filepath`, `regexp`, `sort`, `strings`, `strconv`, `time`.
-
-- Đốt cháy giai đoạn:
-  - [Learn Go in 12 Minutes](https://www.youtube.com/watch?v=C8LgvuEBraI)
-  - [Học Go trong vài phút](https://learnxinyminutes.com/docs/go/)
-
-#### `#php`
-
-- [Official docs](http://php.net/manual/en)
-- [PHP the right way](https://www.phptherightway.com/), chứa nhiều link khác hay lắm.
-
