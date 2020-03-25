@@ -9,21 +9,24 @@
 
 - [Video tổng hợp lại kiến thức C++](https://www.youtube.com/watch?v=Rub-JsjMhWY)
 
-- C++ multithreading, by **Nguyễn Phạm Anh Quân**/**IndieResearcher**/**AnhQuan**:
-    1. `std::thread`
-        - [C++11 multithreading tutorial](https://solarianprogrammer.com/2011/12/16/cpp-11-thread-tutorial/) ([code](https://github.com/sol-prog/threads))
-        - [C++11/C++14 thread tutorials](http://www.bogotobogo.com/cplusplus/C11/1_C11_creating_thread.php)
-        - [C++ Concurrency in Action: Practical Multithreading - Anthony Williams](https://www.amazon.com/C-Concurrency-Action-Practical-Multithreading/dp/1933988770)
+- **Nguyễn Phạm Anh Quân**/**IndieResearcher**/**AnhQuan**
+    - [C++ best practices](https://github.com/lefticus/cppbestpractices)
 
-    2. Multithreading using Windows API:
-        - [Multithreading Applications in Win32: The Complete Guide to Threads - Jim Beveridge &  Robert Wiener](https://www.amazon.com/Multithreading-Applications-Win32-Complete-Threads/dp/0201442345/)
+    - C++ multithreading:
+        1. `std::thread`
+            - [C++11 multithreading tutorial](https://solarianprogrammer.com/2011/12/16/cpp-11-thread-tutorial/) ([code](https://github.com/sol-prog/threads))
+            - [C++11/C++14 thread tutorials](http://www.bogotobogo.com/cplusplus/C11/1_C11_creating_thread.php)
+            - [C++ Concurrency in Action: Practical Multithreading - Anthony Williams](https://www.amazon.com/C-Concurrency-Action-Practical-Multithreading/dp/1933988770)
 
-    3. Multithreading libraries:
-        - [Intel TBB](http://pages.cs.wisc.edu/~gibson/tbbTutorial.html)
-        - OpenMP
-          - [Simple Tutorial with OpenMP: How to Use Parallel Block in C/C++ using OpenMP?](https://helloacm.com/simple-tutorial-with-openmp-how-to-use-parallel-block-in-cc-using-openmp/)
-          - [OpenMP tutorials by Blaise Barney](https://computing.llnl.gov/tutorials/openMP/)
-          - [Using OpenMP: Portable Shared Memory Parallel Programming (Scientific and Engineering Computation) - Barbara Chapman, Gabriele Jost & Ruud van der Pas](https://www.amazon.com/Using-OpenMP-Programming-Engineering-Computation/dp/0262533022)
+        2. Multithreading using Windows API:
+            - [Multithreading Applications in Win32: The Complete Guide to Threads - Jim Beveridge &  Robert Wiener](https://www.amazon.com/Multithreading-Applications-Win32-Complete-Threads/dp/0201442345/)
+
+        3. Multithreading libraries:
+            - [Intel TBB](http://pages.cs.wisc.edu/~gibson/tbbTutorial.html)
+            - OpenMP
+              - [Simple Tutorial with OpenMP: How to Use Parallel Block in C/C++ using OpenMP?](https://helloacm.com/simple-tutorial-with-openmp-how-to-use-parallel-block-in-cc-using-openmp/)
+              - [OpenMP tutorials by Blaise Barney](https://computing.llnl.gov/tutorials/openMP/)
+              - [Using OpenMP: Portable Shared Memory Parallel Programming (Scientific and Engineering Computation) - Barbara Chapman, Gabriele Jost & Ruud van der Pas](https://www.amazon.com/Using-OpenMP-Programming-Engineering-Computation/dp/0262533022)
 
 #### `#python`
 
@@ -217,23 +220,23 @@
 
 #### `#software-design`
 
-- in C++, by @IndieResearcher
-  - Design pattern/framework design: https://www.amazon.com/API-Design-C-Martin-Reddy/dp/0123850037/ref=sr_1_1?ie=UTF8&qid=1525320708&sr=8-1&keywords=API+design+for+C%2B%2B
-  - C++ large scale software: https://www.amazon.com/Large-Scale-Software-Design-John-Lakos/dp/0201633620/ref=sr_1_1?ie=UTF8&qid=1525320729&sr=8-1&keywords=C%2B%2B+large+scale
-  - Clean code: https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_4?ie=UTF8&qid=1525320744&sr=8-4&keywords=software+engineering
-  - Gang of four book: https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?ie=UTF8&qid=1525320781&sr=8-1&keywords=design+pattern
-  - [Coding style/C++ best practices](https://github.com/lefticus/cppbestpractices)
+- **Nguyễn Phạm Anh Quân**/**IndieResearcher**/**AnhQuan**
+    - [API Design for C++ - Martin Reddy](https://www.amazon.com/API-Design-C-Martin-Reddy/dp/0123850037/) (C++)
+    - [Large-Scale C++ Software Design - John Lakos](https://www.amazon.com/Large-Scale-Software-Design-John-Lakos/dp/0201633620/) (C++)
+    - [Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)
+    - [Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides & Grady Booch](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/)
 
-- Các sách cần đọc cho bạn nào thích tìm hiểu về Software Architecture, by @hungsteve:
-  - [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
-  - [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-  - [Patterns of Enterpise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
-  - [Enterprise Intergration Patterns](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
-  - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
-  - [Implementing Domain Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
-  - [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+- Các sách cần đọc cho bạn nào thích tìm hiểu về Software Architecture, by **hungsteve**:
+    - [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+    - [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+    - [Patterns of Enterpise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+    - [Enterprise Intergration Patterns](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
+    - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+    - [Implementing Domain Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
+    - [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 
-- [UX/UI cho mobile application](https://www.behance.net/search?field=132&content=projects&sort=appreciations&time=week&featured_on_behance=true&search=news), by **Tynk Huynk**/**Tinh Huynh**
+- **Tynk Huynk**/**Tinh Huynh**
+    - [UX/UI cho mobile application](https://www.behance.net/search?field=132&content=projects&sort=appreciations&time=week&featured_on_behance=true&search=news)
 
 #### `security`
 
