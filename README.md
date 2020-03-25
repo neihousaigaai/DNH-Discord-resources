@@ -1,5 +1,5 @@
 # DayNhauHoc's Discord resources
-DNH's Discord resources (for coding)
+[DNH](https://daynhauhoc.com/)'s Discord resources (for coding)
 
 ## Active channels (những channels đang hoạt động và được update tài liệu thường xuyên)
 
@@ -9,7 +9,7 @@ DNH's Discord resources (for coding)
 
 - [Video tổng hợp lại kiến thức C++](https://www.youtube.com/watch?v=Rub-JsjMhWY)
 
-- C++ multithreading, by **Nguyễn Phạm Anh Quân/IndieResearcher/AnhQuan**:
+- C++ multithreading, by **Nguyễn Phạm Anh Quân**/**IndieResearcher**/**AnhQuan**:
     1. `std::thread`
         - [C++11 multithreading tutorial](https://solarianprogrammer.com/2011/12/16/cpp-11-thread-tutorial/) ([code](https://github.com/sol-prog/threads))
         - [C++11/C++14 thread tutorials](http://www.bogotobogo.com/cplusplus/C11/1_C11_creating_thread.php)
@@ -28,9 +28,7 @@ DNH's Discord resources (for coding)
 #### `#python`
 
 - [Tuyển tập sách lập trình Python của Henry - thành viên DNH](http://henrysnotes.blogspot.com/2017/12/nhung-cuon-sach-lap-trinh-henry-tung-oc.html)
-
 - [Learn Python The Hard Way (3rd Edition) - Zed A. Shaw](https://github.com/chris-void/pyway/blob/master/Learn%20Python%20The%20Hard%20Way%2C%203rd%20Edition%20.pdf)
-
 - [WTF, Python!](https://github.com/satwikkansal/wtfpython) - exploring and understanding Python through surprising snippets.
 
 #### `#java`
@@ -96,7 +94,7 @@ DNH's Discord resources (for coding)
 
 #### `#javascript`
 
-- **Meigyoku Thmn**:
+- **Meigyoku Thmn**
     - [JS Vietnamese tutorial](https://freetuts.net/hoc-javascript)
     - [Series ECMAScript 2015 (ES6) Vietnamese tutorial](https://freetuts.net/hoc-ecmascript/ecmascript-2015-es6)
 
@@ -122,73 +120,62 @@ DNH's Discord resources (for coding)
 
 - [Solidity, smart contract programming language](https://medium.com/@robbertvermeulen/learn-solidity-the-ethereum-smart-contract-programming-language-7f106fc26d6)
 
-### computer-science
+### `computer-science`
 
 #### `#algorithms`
 
-- by @drgnz:
-  - Github:
+- **drgnz**
     - [Awesome competitive programming](https://github.com/lnishan/awesome-competitive-programming)
-    - [Awesome algorithm](https://github.com/tayllan/awesome-algorithms)
+    - [Awesome algorithms](https://github.com/tayllan/awesome-algorithms)
 
-  - Book:
-    - [Discrete Mathematics and Its Application](https://www.amazon.com/Discrete-Mathematics-Its-Applications-Seventh/dp/0073383090/)
-    - [Linear Algebra and Its Application](https://www.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X)
-    - [Programming Pearls (nên đọc)](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
-    - [Competitive Programming book (3 quyển)](https://cpbook.net/)
-    - [The art of programming (nâng cao)](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
-    - [Introduction to Algorithm (nâng cao, gọi tắt là CLRS Book)](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
+    - [Discrete Mathematics and Its Applications (7th Edition) - Kenneth Rosen](https://www.amazon.com/Discrete-Mathematics-Its-Applications-Seventh/dp/0073383090/)
+    - [Linear Algebra and Its Applications (5th Edition) - David C. Lay, Steven R. Lay & Judi J. McDonald](https://www.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X)
+    - [Programming Pearls (2nd Edition) - Jon Bentley](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880) **(nên đọc)**
+    - [Competitive Programming books](https://cpbook.net/) (3 quyển)
+    - [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043) (nâng cao, 4 quyển)
+    - [Introduction to Algorithms, Third Edition - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest & Clifford Stein](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) (nâng cao, gọi tắt là CLRS Book)
 
-  - Các trang web luyện giải thuật
-    - [codeforces](http://codeforces.com/)
-    - [topcoder](https://www.topcoder.com/)
-    - [codechef](https://www.codechef.com/)
-    - [spoj](http://www.spoj.com/)
-    - [hackerrank](https://www.hackerrank.com/)
-    - [projecteuler](https://projecteuler.net/)
-    - [codefights](https://codefights.com/)
-    - [codewars](https://www.codewars.com/)
-    - [vn spoj](http://vn.spoj.com/)
-    - [leetcode](https://leetcode.com/)
+    - Các trang web luyện giải thuật: [codeforces](http://codeforces.com/), [topcoder](https://www.topcoder.com/), [codechef](https://www.codechef.com/), [spoj](http://www.spoj.com/), [vn spoj](http://vn.spoj.com/), [hackerrank](https://www.hackerrank.com/), [projecteuler](https://projecteuler.net/), [codefights](https://codefights.com/), [codewars](https://www.codewars.com/), [leetcode](https://leetcode.com/), [CP-Algorithms](https://cp-algorithms.com/)
+    - Blog: https://www.geeksforgeeks.org/
 
-  - Blog
-    - https://www.geeksforgeeks.org/
+- **Asterick**/**Ren**
+    > Learning order should be 20 -> 21 -> 101
 
-- by @Asterick:
+    - _**University of California San Diego's CSE 20: Discrete Mathematics for Computer Science**_
 
-  - **Learning order should be 20 -> 21 -> 101**
+    [Link for the complete zip file of the course](https://drive.google.com/open?id=1X6BEKfO4Dy2vx6lI7NUXh0UwQWN9GSBE), which includes:
 
-  - **University of California San Diego's CSE 20: Discrete Mathematics for Computer Science**
+    - An offline version of the website. It comes with: PowerPoint slides of the materials, homework problems/solutions, midterm problems/solutions, and finals problems/solutions
 
-    [Link of the complete zip file of the course](https://drive.google.com/open?id=1X6BEKfO4Dy2vx6lI7NUXh0UwQWN9GSBE), includes:
+    - 2 PDF books: 
+        - The book [`Discrete Mathematics and Its Applications, 7th Edition - Kenneth Rosen`](https://www.amazon.com/Discrete-Mathematics-Its-Applications-Seventh/dp/0073383090) that is used with the course
+        - The student solution manual for the book
 
-    - An offline version of the website.<br>It comes with: PowerPoint slides of the materials, homework problems/solutions, midterm problems/solutions, and finals problems/solutions
-
-    - 2 pdf books: 
-      - The book Rosen's Discrete Mathematics and Its Applications 7th Edition  that is used with the course
-      - The student solution manual for the book
-
-  - **University of California San Diego's CSE 21: Mathematics for Algorithms and System Analysis**
+    - _**University of California San Diego's CSE 21: Mathematics for Algorithms and System Analysis**_
   
     - Layout is the same as CSE20
-    - [Link](https://drive.google.com/open?id=1rsNmVBys4j1tS8wqi2qpvsY87Q5njMTJ)
+    - [Link for the zip file](https://drive.google.com/open?id=1rsNmVBys4j1tS8wqi2qpvsY87Q5njMTJ)
 
-  - **University of California San Diego's CSE 101: Design and Analysis of Algorithm**
+    - _**University of California San Diego's CSE 101: Design and Analysis of Algorithm**_
     - [Website](https://vlsicad.ucsd.edu/courses/cse101-w18/)
     - [Book that goes with course](https://vlsicad.ucsd.edu/courses/cse101-w18/textbook.pdf)
     - Link to download all the additional resources (homeworks/midterms/finals solutions, extra documentations, and even an offline version of the website) all categorized and wrapped up in a nice little zip file for your viewing pleasure: [Link](https://drive.google.com/open?id=1qI8ChvW-oF4wpCw9kX-Mhdy9Qk7SIgF3)
 
-- Numerical Analysis (ebook), by @IndieResearcher:
-  - [General](https://www.amazon.com/Numerical-Methods-Scientists-Engineers-Mathematics/dp/0486652416/ref=sr_1_3?ie=UTF8&qid=1525318799&sr=8-3&keywords=numerical+method)
-  - [C Implementation](https://www.amazon.com/Numerical-Recipes-Scientific-Computing-Second/dp/0521431085/ref=sr_1_2?ie=UTF8&qid=1525318848&sr=8-2&keywords=numerical+method+in+C)
-  - [Numerical Finance](https://www.amazon.com/Numerical-Methods-Finance-Mastering-Mathematical/dp/0521177162/ref=sr_1_1?ie=UTF8&qid=1525318909&sr=8-1&keywords=numerical+method+finance+with+C%2B%2B)
-  - [Numerical physic](https://www.amazon.com/Numerical-Methods-Physics-Alejandro-Garcia/dp/1514136686/ref=sr_1_1?ie=UTF8&qid=1525318954&sr=8-1&keywords=numerical+method+for+physic)
+- **Nguyễn Phạm Anh Quân**/**IndieResearcher**/**AnhQuan**
+    - [Numerical Methods for Scientists and Engineers (Dover Books on Mathematics) (2nd Revised Edition) - R. W. Hamming](https://www.amazon.com/Numerical-Methods-Scientists-Engineers-Mathematics/dp/0486652416/)
+    - [Numerical Recipes in C: The Art of Scientific Computing, Second Edition - William H. Press](https://www.amazon.com/Numerical-Recipes-Scientific-Computing-Second/dp/0521431085/)
+    - [Numerical Methods in Finance with C++ (Mastering Mathematical Finance) - Maciej J. Capinski](https://www.amazon.com/Numerical-Methods-Finance-Mastering-Mathematical/dp/0521177162/)
+    - [Numerical Methods for Physics (Second Revised Edition) - Alejandro L. Garcia](https://www.amazon.com/Numerical-Methods-Physics-Alejandro-Garcia/dp/1514136686/)
+    - [The Algorithm Design Manual (2nd Edition) - Steven S Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/)
 
-- by @Tinh Huynh:
-  - [Video series: Introduction to sorting algorithms](https://www.youtube.com/watch?v=pkkFqlG0Hds&index=0&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U)
-  - [Cracking the Coding Interview via HackerRank](https://www.youtube.com/watch?v=shs0KM3wKv8&list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK)
+- **Tynk Huynk**/**Tinh Huynh**
+    - [Video series: Introduction to sorting algorithms](https://www.youtube.com/watch?v=pkkFqlG0Hds&index=0&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U)
+    - [Video series: Cracking the Coding Interview via HackerRank](https://www.youtube.com/watch?v=GKgAVjJxh9w&list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK)
 
-- 1 rổ các thuật toán đc biểu diễn 1 cách trực quan: [VisuAlgo](https://visualgo.net/en)
+- **HK_boy**
+    - 1 rổ các thuật toán đc biểu diễn 1 cách trực quan: [VisuAlgo](https://visualgo.net/en)
+    - [Introduction to Low Level Bit Hacks](https://catonmat.net/low-level-bit-hacks)
+    - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 
 #### `#math`
 
@@ -234,7 +221,7 @@ DNH's Discord resources (for coding)
   - [Implementing Domain Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
   - [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 
-- [UX/UI cho mobile application](https://www.behance.net/search?field=132&content=projects&sort=appreciations&time=week&featured_on_behance=true&search=news), by Tinh Huynh
+- [UX/UI cho mobile application](https://www.behance.net/search?field=132&content=projects&sort=appreciations&time=week&featured_on_behance=true&search=news), by **Tynk Huynk**/**Tinh Huynh**
 
 #### `#data-science`
 
@@ -415,7 +402,7 @@ http://openstax.org/
 
 #### `golang`
 
-- **Tynk Huynk**
+- **Tynk Huynk**/**Tinh Huynh**
     - [Awesome Go](https://github.com/avelino/awesome-go)
     - [Learn Go](https://github.com/golang/go/wiki/Learn)
 
