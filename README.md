@@ -120,8 +120,11 @@
     - [30 seconds of code - Short JavaScript code snippets for all your development needs](https://github.com/30-seconds/30-seconds-of-code)
 
 #### `#misc`
+- **hungsteve**
+    - [Solidity, smart contract programming language](https://medium.com/@robbertvermeulen/learn-solidity-the-ethereum-smart-contract-programming-language-7f106fc26d6)
 
-- [Solidity, smart contract programming language](https://medium.com/@robbertvermeulen/learn-solidity-the-ethereum-smart-contract-programming-language-7f106fc26d6)
+- **Meigyoku Thmn**
+    - Tổng hợp documetation của các framework nổi tiếng: https://devdocs.io/
 
 ### `computer-science`
 
