@@ -1,7 +1,7 @@
 # DayNhauHoc's Discord resources
 DNH's Discord resources (for coding)
 
-## Box list (for coding)
+## Active channels (những channels đang hoạt động và được update tài liệu thường xuyên)
 
 ### `programming-languages`
 
@@ -94,11 +94,6 @@ DNH's Discord resources (for coding)
 
 - [C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
 
-#### `#php`
-
-- [Official docs](http://php.net/manual/en)
-- [PHP the right way](https://www.phptherightway.com/), chứa nhiều link khác hay lắm.
-
 #### `#javascript`
 
 - **Meigyoku Thmn**:
@@ -123,32 +118,13 @@ DNH's Discord resources (for coding)
 - **drgnz**
     - [30 seconds of code - Short JavaScript code snippets for all your development needs](https://github.com/30-seconds/30-seconds-of-code)
 
-#### `golang`
-
-- **Tynk Huynk**
-    - [Awesome Go](https://github.com/avelino/awesome-go)
-    - [Learn Go](https://github.com/golang/go/wiki/Learn)
-
-- **Aragami1408**
-    - [Go Programming - Derek Banas](https://www.youtube.com/watch?v=CF9S4QZuV30)
-
-- **hungsteve**
-    - Lên trang chủ golang https://golang.org/, làm 1 tour
-    - Đọc [How to Write Go Code](https://golang.org/doc/code.html)
-    - Đọc tiếp [Effective Go](https://golang.org/doc/effective_go.html)
-    - Xem tiếp các packages: `fmt`, `bytes`, `io`, `io/util`, `math`, `net`, `net/http`, `path`, `path/filepath`, `regexp`, `sort`, `strings`, `strconv`, `time`.
-
-- Đốt cháy giai đoạn:
-  - [Learn Go in 12 Minutes](https://www.youtube.com/watch?v=C8LgvuEBraI)
-  - [Học Go trong vài phút](https://learnxinyminutes.com/docs/go/)
-
 #### `#misc`
 
 - [Solidity, smart contract programming language](https://medium.com/@robbertvermeulen/learn-solidity-the-ethereum-smart-contract-programming-language-7f106fc26d6)
 
 ### computer-science
 
-#### `#algorithm`
+#### `#algorithms`
 
 - by @drgnz:
   - Github:
@@ -271,7 +247,7 @@ DNH's Discord resources (for coding)
   - 1 số khóa học trên Udemy:
     - https://www.udemy.com/courses/search/?q=Python%20machine%20learning&src=ukw
 
-#### `security` (since 23/8/2018)
+#### `security`
 
 - by @drgnz:
   - Ấn phẩm Watch Your Hack, giúp bạn bảo vệ bản thân khỏi nguy cơ bị rip nick FB, phòng chống WannaCry và giúp bạn phòng chống những Hacker nguy hiểm nhất thế giới.
@@ -331,8 +307,6 @@ DNH's Discord resources (for coding)
     - [Hacking-Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
     - [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
     - [Practical Reverse Engineering](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation-ebook/dp/B00IA22R2Y)
-
-### major
 
 #### `#web`
 
@@ -422,7 +396,7 @@ Tuỳ thuộc vào mình làm arm hay không, mà bây giờ arm phổ biến qu
   - https://www.udemy.com/crash-course-electronics-and-pcb-design
   - https://github.com/s-matyukevich/raspberry-pi-os
 
-### operating-system
+### `operating-system`
 
 #### `#linux-unix`
 
@@ -436,3 +410,30 @@ drgnz:
 Nguồn sách free và legal: 
 https://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=7
 http://openstax.org/
+
+## Archived channels (những channels đã không còn hoạt động)
+
+#### `golang`
+
+- **Tynk Huynk**
+    - [Awesome Go](https://github.com/avelino/awesome-go)
+    - [Learn Go](https://github.com/golang/go/wiki/Learn)
+
+- **Aragami1408**
+    - [Go Programming - Derek Banas](https://www.youtube.com/watch?v=CF9S4QZuV30)
+
+- **hungsteve**
+    - Lên trang chủ golang https://golang.org/, làm 1 tour
+    - Đọc [How to Write Go Code](https://golang.org/doc/code.html)
+    - Đọc tiếp [Effective Go](https://golang.org/doc/effective_go.html)
+    - Xem tiếp các packages: `fmt`, `bytes`, `io`, `io/util`, `math`, `net`, `net/http`, `path`, `path/filepath`, `regexp`, `sort`, `strings`, `strconv`, `time`.
+
+- Đốt cháy giai đoạn:
+  - [Learn Go in 12 Minutes](https://www.youtube.com/watch?v=C8LgvuEBraI)
+  - [Học Go trong vài phút](https://learnxinyminutes.com/docs/go/)
+
+#### `#php`
+
+- [Official docs](http://php.net/manual/en)
+- [PHP the right way](https://www.phptherightway.com/), chứa nhiều link khác hay lắm.
+
