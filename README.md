@@ -298,20 +298,6 @@
 
 #### `#game`
 
-- 1 số tài liệu, by @IndieResearcher:
-  1. OpenCV:
-    - https://www.amazon.com/Machine-Learning-OpenCV-Intelligent-processing/dp/1783980281/ref=sr_1_2?ie=UTF8&qid=1525231449&sr=8-2&keywords=OpenCV
-    - https://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549/ref=sr_1_3?ie=UTF8&qid=1525231449&sr=8-3&keywords=OpenCV
-    - https://www.amazon.com/OpenCV-Example-Prateek-Joshi/dp/1785280945/ref=sr_1_4?ie=UTF8&qid=1525231449&sr=8-4&keywords=OpenCV
-    - https://www.amazon.com/OpenCV-Computer-Application-Programming-Cookbook/dp/1786469715/ref=sr_1_6?ie=UTF8&qid=1525231449&sr=8-6&keywords=OpenCV
-
-  2. dlib:
-    - http://dlib.net/
-    - https://www.learnopencv.com/?s=dlib
-
-  3. OpenGL for image processing:
-    - https://www.amazon.com/OpenGL-Shading-Language-Cookbook-Second/dp/1782167021/ref=sr_1_2?ie=UTF8&qid=1525231616&sr=8-2&keywords=OpenGL+cookbook
-
 #### `#mobile`
 
 #### `#sysadmin`
@@ -351,6 +337,22 @@
 
 - [Official docs](http://php.net/manual/en)
 - [PHP the right way](https://www.phptherightway.com/), chứa nhiều link khác hay lắm.
+
+#### `#game-film-tech`
+
+- **Nguyễn Phạm Anh Quân**/**IndieResearcher**/**AnhQuan**
+  1. OpenCV (image processing library):
+    - [Machine Learning for OpenCV: Intelligent image processing with Python - Michael Beyeler](https://www.amazon.com/Machine-Learning-OpenCV-Intelligent-processing/dp/1783980281/)
+    - [Programming Computer Vision with Python: Tools And Algorithms For Analyzing Images - Jan Erik Solem](https://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549/)
+    - [OpenCV By Example: Enhance your understanding of Computer Vision and image processing by developing real-world projects in OpenCV 3 - Prateek Joshi, David Millan Escriva & Vinicius Godoy](https://www.amazon.com/OpenCV-Example-Prateek-Joshi/dp/1785280945/)
+    - [OpenCV 3 Computer Vision Application Programming Cookbook - Third Edition - Robert Laganiere](https://www.amazon.com/OpenCV-Computer-Application-Programming-Cookbook/dp/1786469715/)
+
+  2. [dlib](http://dlib.net/) (Library containing machine learning algorithms and tools):
+    - http://dlib.net/
+    - https://www.learnopencv.com/?s=dlib
+
+  3. Sách:
+    - [OpenGL 4 Shading Language Cookbook - Second Edition - David Wolff](https://www.amazon.com/OpenGL-Shading-Language-Cookbook-Second/dp/1782167021/)
 
 #### `#data-science`
 
