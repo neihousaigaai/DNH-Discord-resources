@@ -101,21 +101,42 @@ DNH's Discord resources (for coding)
 
 #### `#javascript`
 
-- recommended by Meigyoku Thmn:
-  - [JS Vietnamese tutorial](https://freetuts.net/hoc-javascript)
-  - [Series es6 Vietnamese tutorial](https://freetuts.net/hoc-ecmascript/ecmascript-2015-es6)
+- **Meigyoku Thmn**:
+    - [JS Vietnamese tutorial](https://freetuts.net/hoc-javascript)
+    - [Series ECMAScript 2015 (ES6) Vietnamese tutorial](https://freetuts.net/hoc-ecmascript/ecmascript-2015-es6)
 
-#### `go` (since 20/06/2018)
+- **hungsteve**
+    - [Eloquent JavaScript - 3rd edition (Marijn Haverbeke)](https://eloquentjavascript.net/)
+    - [JavaScript - The Definitive Guide (David Flanagan)](https://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527)
+    - [JavaScript - The Good Parts (Douglas Crockford)](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+    - [JavaScript Patterns - Build Better Applications with Coding and Design Patterns (Stoyan Stefanov)](https://www.amazon.com/JavaScript-Patterns-Better-Applications-Coding/dp/0596806752)
+    - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
+    - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
-- [Learn Go](https://github.com/golang/go/wiki/Learn)
+    - Một số trang web:
+        - [Mozilla Developer](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+        - [ECMAScript® 2018 Language Specification](https://www.ecma-international.org/ecma-262/9.0)
+        - [NodeJS API Reference](https://nodejs.org/dist/latest-v10.x/docs/api)
+        - [v8 Blog](https://v8project.blogspot.com/)
+        - [v8 Code](https://github.com/v8/v8)
+
+- **drgnz**
+    - [30 seconds of code - Short JavaScript code snippets for all your development needs](https://github.com/30-seconds/30-seconds-of-code)
+
+#### `golang`
+
+- **Aragami1408**
+    - [Go Programming - Derek Banas](https://www.youtube.com/watch?v=CF9S4QZuV30)
+
+- **hungsteve**
+    - Lên trang chủ golang https://golang.org/, làm 1 tour
+    - Đọc [How to Write Go Code](https://golang.org/doc/code.html)
+    - Đọc tiếp [Effective Go](https://golang.org/doc/effective_go.html)
+    - Xem tiếp các packages: `fmt`, `bytes`, `io`, `io/util`, `math`, `net`, `net/http`, `path`, `path/filepath`, `regexp`, `sort`, `strings`, `strconv`, `time`.
+
+    - [Learn Go](https://github.com/golang/go/wiki/Learn)
 
 - [Awesome Go](https://github.com/avelino/awesome-go)
-
-- [Golang homepage](https://golang.org/). Guide đủ xài:
-  - Làm 1 Tour
-  - Đọc "How to write Go code"
-  - Đọc tiếp "Effective Go"
-  - Xem tiếp các packages: fmt, bytes, io, io/util, math, net, net/http, path, path/filepath, regexp, sort, strings, strconv, time.
 
 - Đốt cháy giai đoạn:
   - [Learn Go in 12 Minutes](https://www.youtube.com/watch?v=C8LgvuEBraI)
