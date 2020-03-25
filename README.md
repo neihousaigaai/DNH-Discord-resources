@@ -238,45 +238,40 @@
 - **Tynk Huynk**/**Tinh Huynh**
     - [UX/UI cho mobile application](https://www.behance.net/search?field=132&content=projects&sort=appreciations&time=week&featured_on_behance=true&search=news)
 
-#### `security`
+#### `#security`
 
-- by @drgnz:
-  - Ấn phẩm Watch Your Hack, giúp bạn bảo vệ bản thân khỏi nguy cơ bị rip nick FB, phòng chống WannaCry và giúp bạn phòng chống những Hacker nguy hiểm nhất thế giới.
-    - [Bản Tiếng Việt](https://medium.com/@kienbigmummy/watch-your-hack-b%E1%BA%A3n-d%E1%BB%8Bch-ti%E1%BA%BFng-vi%E1%BB%87t-541c78d3305b)
-    - [Bản Gốc](https://watchyourhack.com/)
-  - Open Security: http://opensecuritytraining.info/ (Khá cũ và ko update gì mới)
-  - Malware Unicorn: https://sites.google.com/secured.org/malwareunicorn/reverse-engineering
-  - Reverse Engineering for Beginner: https://www.begin.re/
-  - RE Beginner: https://beginners.re/
-  - Crypto101: https://www.crypto101.io/
-  - Cryptopals: https://cryptopals.com/
-  - Tuts4you: https://tuts4you.com/
-  - Crackme: http://crackmes.one/
-  - Woodman.com: http://woodmann.com/
-  - The Legend of Random Tutorial: https://legend.octopuslabs.io/
-  - Hacker Manifesto: http://phrack.org/issues/7/3.html
-  - Phrack Magazine: http://phrack.org/
-  - (Must read) How to become a hacker: http://www.catb.org/esr/faqs/hacker-howto.html
-  - Digital Forensics and Incident Response: http://aboutdfir.com/
-  - Little Man in My Head: https://littlemaninmyhead.wordpress.com/
-  - CTF Times: https://ctftime.org/
-  - The Hacker News: https://thehackernews.com/
-  - m4n0w4r Olly tutorial: https://kienmanowar.wordpress.com/category/ollydbg-tutorials/
-  - NULL BYTE: https://null-byte.wonderhowto.com/
-  - Levis's .NET RE: https://ltops9.wordpress.com/2017/03/08/series-reversingcracking-net-co-ban-bang-tieng-viet/
+- **drgnz**:
+  - Ấn phẩm Watch Your Hack, giúp bạn bảo vệ bản thân khỏi nguy cơ bị rip nick FB, phòng chống WannaCry và giúp bạn phòng chống những hackers nguy hiểm nhất thế giới.
+    - [Bản tiếng Việt](https://tradahacking.vn/watch-your-hack-b%E1%BA%A3n-d%E1%BB%8Bch-ti%E1%BA%BFng-vi%E1%BB%87t-541c78d3305b)
+    - [Bản gốc](https://watchyourhack.com/)
+  - (**Must read**) [How To Become A Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
+  - [Open Security](http://opensecuritytraining.info/) (Khá cũ và ko update gì mới)
+  - [Reverse Engineering for Beginners](https://www.begin.re/)
+  - [Reverse Engineering for Beginners](https://beginners.re/) (khác với cuốn sách trên)
+  - [Crypto101](https://www.crypto101.io/)
+  - [the cryptopals crypto challenges](https://cryptopals.com/)
+  - [Tuts 4 You](https://tuts4you.com/)
+  - [crackmes.one](http://crackmes.one/)
+  - [Woodmanns](http://woodmann.com/) (site đã đóng)
+  - [The Legend Of Random Tutorial](https://legend.octopuslabs.io/)
+  - [Hacker's Manifesto](http://phrack.org/issues/7/3.html)
+  - [Phrack Magazine](http://phrack.org/)
+  - [Digital Forensics and Incident Response (DFIR)](http://aboutdfir.com/)
+  - [Little Man in My Head](https://littlemaninmyhead.wordpress.com/)
+  - [CTFtime](https://ctftime.org/)
+  - [The Hacker News](https://thehackernews.com/)
+  - [kienmanowar's OllyDbg tutorial](https://kienmanowar.wordpress.com/category/ollydbg-tutorials/)
+  - [NULL BYTE](https://null-byte.wonderhowto.com/)
+  - [Levis's .NET Reverse Engineering](https://ltops9.wordpress.com/2017/03/08/series-reversingcracking-net-co-ban-bang-tieng-viet/)
 
-  - Reddit:
-    - https://www.reddit.com/r/ReverseEngineering/
-    - https://www.reddit.com/r/Malware
-    - https://www.reddit.com/r/computerforensics
-    - http://reddit.com/r/crypto
+  - Reddit: [r/ReverseEngineering](https://www.reddit.com/r/ReverseEngineering/), [r/Malware](https://www.reddit.com/r/Malware), [r/computerforensics](https://www.reddit.com/r/computerforensics), [r/crypto](http://reddit.com/r/crypto)
 
   - Youtube:
-    - BlackHat: https://www.youtube.com/user/BlackHatOfficialYT
-    - DEFCON: https://www.youtube.com/user/DEFCONConference
-    - LiveOverflow (Thường làm clip về Exploitation và Pentest): https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+    - [Black Hat](https://www.youtube.com/user/BlackHatOfficialYT)
+    - [DEFCON Conference](https://www.youtube.com/user/DEFCONConference)
+    - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) (thường làm clip về exploitation và pentest)
 
-- by @Asterick:
+- **Asterick**/**Ren**
   - Tập "hacking":
     - http://overthewire.org/wargames/
     - https://www.hackthissite.org/
@@ -284,7 +279,7 @@
     - https://www.darknet.org.uk/
 
   - Website/Forum:
-    - [Reddit Security](https://www.reddit.com/r/netsec/)
+    - Reddit: [r/netsec](https://www.reddit.com/r/netsec/)
     - News:
       - https://krebsonsecurity.com/
       - https://news.ycombinator.com/
@@ -292,12 +287,12 @@
     - [Cybrary (security training)](https://www.cybrary.it/)
 
   - Sách:
-    - [Security Engineering (free)](https://www.cl.cam.ac.uk/~rja14/book.html)
-    - [Applied Cryptography](https://www.amazon.com/Applied-Cryptography-Protocols-Algorithms-Source/dp/0471117099)
-    - hay [Cryptography Engineering](https://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246)
-    - [Hacking-Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
-    - [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
-    - [Practical Reverse Engineering](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation-ebook/dp/B00IA22R2Y)
+    - [Security Engineering — Third Edition](https://www.cl.cam.ac.uk/~rja14/book.html) (free)
+    - [Applied Cryptography: Protocols, Algorithms, and Source Code in C (2nd Edition) - Bruce Schneier](https://www.amazon.com/Applied-Cryptography-Protocols-Algorithms-Source/dp/0471117099)
+    - [Cryptography Engineering: Design Principles and Practical Applications - Niels Ferguson](https://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246)
+    - [Hacking: The Art of Exploitation, 2nd Edition - Jon Erickson](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
+    - [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software - Michael Sikorski, Andrew Honig](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
+    - [Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation - Bruce Dang, Alexandre Gazet, Elias Bachaalany, Sébastien Josse](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation-ebook/dp/B00IA22R2Y)
 
 #### `#web`
 
