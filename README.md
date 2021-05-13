@@ -1,6 +1,6 @@
 # DayNhauHoc's Discord resources
-[DNH](https://daynhauhoc.com/)'s Discord resources (for coding)
-Last updated: **25/03/2020**
+[DNH](https://daynhauhoc.com/)'s Discord resources (for programming)
+Last updated: **13/5/2021**
 
 ## Active channels (những channels đang hoạt động và được update tài liệu thường xuyên)
 
@@ -37,7 +37,7 @@ Last updated: **25/03/2020**
 
 #### `#java`
 
-* JAVA LEARNING PATH (by **Aragami1408**)
+* JAVA LEARNING PATH (by **Aragami1408**/**D6E093**)
     1. Học Java core để biết được cơ bản về Java:
         - [Head First Java - Kathy Sierra (2nd Edition)](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208)
         - [Effective Java - Joshua Bloch (3rd Edition)](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997)
