@@ -57,7 +57,7 @@ Last updated: **13/5/2021**
         - Servlet: [Head First Servlets and JSP: Passing the Sun Certified Web Component Developer Exam - Bryan Basham, Kathy Sierra & Bert Bates](https://www.amazon.com/Head-First-Servlets-JSP-Certified/dp/0596516681)
         - ...
 
-* Books & references (by **Aragami1408**)
+* Books & references (by **Aragami1408**/**D6E093**)
   - Documentation:
     - [Java 7](https://docs.oracle.com/javase/7/docs/api/)
     - [Java 8](https://docs.oracle.com/javase/8/docs/api/)
