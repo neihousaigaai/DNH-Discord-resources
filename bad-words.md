@@ -26,6 +26,10 @@ bad_words = [
 "pussy",
 "shit",
 "whore",
+"dilf",
+"creampie",
+"nakadashi",
+"mind break",
 
 # Vietnamese
 # source: 
