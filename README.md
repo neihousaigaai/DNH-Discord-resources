@@ -14,14 +14,13 @@ Last updated: **14/5/2021**
 
 #### [`#c-and-cpp`](active_channels/programming_languages/c-and-cpp.md)
 
-
 #### [`#python`](active_channels/programming_languages/python.md)
 
 #### [`#java`](active_channels/programming_languages/java.md)
 
+#### [`#c-sharp-dotnet`](active_channels/programming_languages/c-sharp-dotnet.md)
 
-#### [`#dotnet`](active_channels/programming_languages/dotnet.md)
-
+#### [`#javascript`](active_channels/programming_languages/javascript.md)
 
 #### [`#misc`](active_channels/programming_languages/misc.md)
 
@@ -30,6 +29,7 @@ Last updated: **14/5/2021**
 #### [`#algorithms`](active_channels/computer_science/algorithms.md)
 
 #### [`#math`](active_channels/computer_science/math.md)
+
 #### [`#dba`](active_channels/computer_science/dba.md)
 
 #### [`#software-design`](active_channels/computer_science/software-design.md)
@@ -37,7 +37,6 @@ Last updated: **14/5/2021**
 #### [`#security`](active_channels/computer_science/security.md)
 
 #### [`#web`](active_channels/computer_science/web.md)
-
 
 #### [`#gamedev`](active_channels/computer_science/gamedev.md)
 
@@ -53,8 +52,6 @@ Last updated: **14/5/2021**
 
 ### `others`
 
-#### [`#books`]
-
 ## Archived channels (những channels đã không còn hoạt động)
 
 #### [`#golang`](archived_channels/golang.md)
@@ -66,3 +63,5 @@ Last updated: **14/5/2021**
 #### [`#data-science`](archived_channels/data-science.md)
 
 #### [`#embedded`](archived_channels/embedded.md)
+
+#### [`#books`](archived_channels/books.md)
