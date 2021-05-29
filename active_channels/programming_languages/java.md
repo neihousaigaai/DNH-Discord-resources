@@ -25,6 +25,7 @@
     - [Java 8](https://docs.oracle.com/javase/8/docs/api/)
     - [Java 9](https://docs.oracle.com/javase/9/docs/api/)
     - [Java 10](https://docs.oracle.com/javase/10/)
+    - [Java 11](https://docs.oracle.com/en/java/javase/11/)
 
   - [Free Java books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#java)
 
@@ -51,5 +52,4 @@
     - [:books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 
   - YouTube channels
-    - [Derek Banas](https://www.youtube.com/user/derekbanas)
-    - Java Video Tutorial
+    - [Java Tutorial For Beginners[2020]](https://www.youtube.com/watch?v=eIrMbAQSU34)
