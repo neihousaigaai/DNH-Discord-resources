@@ -5,9 +5,6 @@
 If you want to look at one of those resources, click on link which started with `#` like `#c-and-cpp`
 ```
 
-Last updated: **14/5/2021**
-
-
 ## Active channels (những channels đang hoạt động và được update tài liệu thường xuyên)
 
 ### `programming-languages`
@@ -44,6 +41,8 @@ Last updated: **14/5/2021**
 
 #### [`#devops`](active_channels/computer_science/dev.md)
 
+#### [`#general-science`](active_channels/computer_science/general-science.md)
+
 ### `operating-system`
 
 #### [`#linux-unix`]()
@@ -60,8 +59,8 @@ Last updated: **14/5/2021**
 
 #### [`#game-film-tech`](archived_channels/game-film-tech.md)
 
-#### [`#data-science`](archived_channels/data-science.md)
-
 #### [`#embedded`](archived_channels/embedded.md)
 
 #### [`#books`](archived_channels/books.md)
+
+## [Good contents](good-contents.md) by our members

@@ -1,6 +1,8 @@
 # `c-and-cpp`
 
 - [Video tổng hợp lại kiến thức C++](https://www.youtube.com/watch?v=Rub-JsjMhWY)
+- [cppreference](https://en.cppreference.com/w/)
+- [C++ FAQ](https://isocpp.org/faq)
 
 - **Nguyễn Phạm Anh Quân**/**IndieResearcher**/**AnhQuan**
     - [C++ best practices](https://github.com/lefticus/cppbestpractices)
