@@ -9,7 +9,7 @@
         - [Discover Meteor](https://book.discovermeteor.com)
 
     - HTML & CSS
-        > Bản thân mình học qua W3School và thấy rất tốt ko như nhiều người nó tệ. Ngay cả trường mình cũng dùng tài liệu trên W3 để dạy
+        > Bản thân mình học qua W3School và thấy rất tốt ko như nhiều người nói tệ. Ngay cả trường mình cũng dùng tài liệu trên W3 để dạy
         - https://www.w3schools.com/
 
     - JavaScript
@@ -29,5 +29,6 @@
     - Books:
         - UI design: [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) - Steve Krug](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/)
 
-- **Wello6143**
-    - [Top 10 framework CSS nhỏ gọn bạn nên biết](https://techtalk.vn/top-10-framework-css-nho-gon-ban-nen-biet.html)
+- **Wello6143/weo**
+    - Utility:
+        - [Glitch](https://glitch.com/) - Miễn phí, giao diện bắt mắt và dễ hiểu. Glitch là một nơi tuyệt vời để bạn có thể lập trình web. Ngoài ra bạn cũng có thể tận dụng container Linux họ cung cấp cho những mục đích khác.
