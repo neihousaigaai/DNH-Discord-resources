@@ -45,9 +45,9 @@ If you want to look at one of those resources, click on link which started with 
 
 ### `operating-system`
 
-#### [`#linux-unix`]()
+#### [`#linux-unix`](active_channels/operating_system/linux-unix.md)
 
-#### [`#windows`]()
+#### [`#windows`](active_channels/operating_system/windows.md)
 
 ### `others`
 
